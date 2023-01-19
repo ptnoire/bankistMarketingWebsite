@@ -1,3 +1,5 @@
+**EDIT: JANUARY 17TH, 2023: Completely revamped this website, better upload for publishing and my 'bankist' project, which is a mock banking app is now linked to this marketing website so you can view both features through this. Seperate repositories just for clarity.**
+
 //////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
